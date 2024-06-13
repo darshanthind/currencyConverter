@@ -1,5 +1,5 @@
 {
-  "name": "gcurrencyconverter",
+  "name": "@gcurrencyconverter",
   "version": "0.0.0",
   "description": "this is currency-converter",
   "main": "index.js",
