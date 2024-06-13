@@ -1,0 +1,4 @@
+/node_modules
+.env
+fetch.js
+data.JSON
